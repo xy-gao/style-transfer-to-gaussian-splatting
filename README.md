@@ -61,7 +61,7 @@ In my case i installed https://github.com/crowsonkb/style-transfer-pytorch.
 git clone https://github.com/crowsonkb/style-transfer-pytorch.git
 pip install -e .
 ```
-And I wrote a script to do this step.
+And I wrote a script to do style transfer and overwrite image files this step.
 ```
 python main.py path\to\your\dataset\images path\to\your\style\image.jpg path\to\your\dataset\images
 ```
