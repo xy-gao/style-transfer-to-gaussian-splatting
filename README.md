@@ -14,6 +14,9 @@ dataset
 ## step 2
 Process dataset for gaussian splatting training.
 
+```
+git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
+```
 Follow [gaussian splatting](https://github.com/graphdeco-inria/gaussian-splatting) for setup. 
 
 you also need to install colmap, or executable can be found here. https://demuc.de/colmap/
@@ -53,7 +56,12 @@ dataset
 ```
 
 For image style transfer, you can use whatever tool you like.
-In my case i installed https://github.com/crowsonkb/style-transfer-pytorch. And I wrote a script to do this step.
+In my case i installed https://github.com/crowsonkb/style-transfer-pytorch. 
+```
+git clone https://github.com/crowsonkb/style-transfer-pytorch.git
+pip install -e .
+```
+And I wrote a script to do this step.
 ```
 python main.py path\to\your\dataset\images path\to\your\style\image.jpg path\to\your\dataset\images
 ```

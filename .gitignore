@@ -2,6 +2,7 @@ dataset/
 gaussian-splatting/
 style-transfer-pytorch/
 output/
+trace.json
 .python-version
 # Byte-compiled / optimized / DLL files
 __pycache__/
