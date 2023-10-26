@@ -21,7 +21,7 @@ Follow [gaussian splatting](https://github.com/graphdeco-inria/gaussian-splattin
 
 you also need to install colmap, or executable can be found here. https://demuc.de/colmap/
 ```
-python .\gaussian-splatting\convert.py -s path\to\your\dataset --colmap_executable path\to\your\COLMAP.bat
+python ./gaussian-splatting/convert.py -s path/to/your/dataset --colmap_executable path/to/your/COLMAP.bat
 ```
 now your dataset will be like
 ```
@@ -63,12 +63,12 @@ pip install -e .
 ```
 And I wrote a script to do style transfer and overwrite image files this step.
 ```
-python main.py path\to\your\dataset\images path\to\your\style\image.jpg path\to\your\dataset\images
+python main.py path/to/your/dataset/images path/to/your/style/image.jpg path/to/your/dataset/images
 ```
 
 # step 4
 The dataset is set and you can train your gaussian splatting model.
 ```
-python .\gaussian-splatting\train.py -s path\to\your\dataset
+python ./gaussian-splatting/train.py -s path/to/your/dataset
 ```
 There will be an output folder for trained gaussian splatting and you can use [viewers](https://github.com/graphdeco-inria/gaussian-splatting#pre-built-windows-binaries) to checkout the result. 
