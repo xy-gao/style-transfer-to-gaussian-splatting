@@ -1,5 +1,20 @@
 # style-transfer-to-gaussian-splatting
 
+
+https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/dbf753a7-07b2-4411-bd23-04058d9413a4
+
+<img src="https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/4501933b-43a4-4a7e-8198-5368d0eed240" width="200" />
+
+https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/35f2a27e-7094-41b7-b239-eb7f0e0047e8
+
+<img src="https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/9f3fe897-fa08-42a7-87b2-290848d1b034" width="200" />
+
+
+https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/3162f982-ec28-4b90-84e4-b0fb1d088cfd
+
+<img src="https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/25df49c1-93de-4b93-bbca-6b0d083ead36" width="200" />
+
+
 ## step 1
 Prepare your own image sequence (or any other nerf dataset like https://jonbarron.info/mipnerf360/) and make a dataset.
 
