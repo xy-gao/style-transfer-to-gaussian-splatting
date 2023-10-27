@@ -1,5 +1,6 @@
 # style-transfer-to-gaussian-splatting
 
+The idea is to style transfer images in dataset for gaussian splatting training.
 
 https://github.com/xy-gao/style-transfer-to-gaussian-splatting/assets/36872937/dbf753a7-07b2-4411-bd23-04058d9413a4
 
